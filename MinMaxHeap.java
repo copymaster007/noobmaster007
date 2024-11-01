@@ -1,3 +1,8 @@
+/*
+Resources: https://www.baeldung.com/java-min-max-heap
+           https://medium.com/@kiranbaktha2002/min-max-heaps-for-double-ended-priority-queue-b8a6b93997fb
+*/
+
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
