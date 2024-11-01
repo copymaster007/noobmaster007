@@ -1,3 +1,7 @@
+/*
+Resources: https://www.baeldung.com/java-min-max-heap
+           https://medium.com/@kiranbaktha2002/min-max-heaps-for-double-ended-priority-queue-b8a6b93997fb
+*/
 package t3;
 
 import java.util.Scanner;
